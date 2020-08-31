@@ -9,11 +9,16 @@ This repository includes my works during 1st June 2020 to 31st August 2020 in Ez
 --Later I divide the labels in five categories using histrogram plot.
 
 # Libraries:
-1.Pandas
-2.Numpy
-3.Scipy
-4.Scikit learn
-5.Imblearn
+
+1.Pandas -- for tabular dataset handeling
+
+2.Numpy -- for array related works
+
+3.Scipy -- for peak detection and gaussian smoothing
+
+4.Scikit learn -- for different types of regression and classification machine learning models
+
+5.Imblearn -- for reducing imbalanced class
 
 
 # My work
