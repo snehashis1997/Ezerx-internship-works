@@ -8,6 +8,13 @@ This repository includes my works during 1st June 2020 to 31st August 2020 in Ez
 
 --Later I divide the labels in five categories using histrogram plot.
 
+# Libraries:
+1.Pandas
+2.Numpy
+3.Scipy
+4.Scikit learn
+5.Imblearn
+
 
 # My work
 
@@ -16,5 +23,6 @@ Then using histrogram plots try to create some class.
 
 At first I solved the given problem as a regression problem, later I solved the problem as a classification problem.
 
-So, in regression problem, I tried to use diffrent regression algorithims like # SVR,Random forest(Bagging), XGBOOST(Boosting).
+So, in regression problem, I tried to use diffrent regression algorithims like SVR,Random forest(Bagging), XGBOOST(Boosting).
+
 Also the given dataset was very much imbalanced, so while solving classification problems I used Imblearn library's SMOTE algorithim to reduce imblance.
