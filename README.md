@@ -16,5 +16,5 @@ Then using histrogram plots try to create some class.
 
 At first I solved the given problem as a regression problem, later I solved the problem as a classification problem.
 
-So, in regression problem, I tried to use diffrent regression algorithims like SVR,Random forest(Bagging), XGBOOST(Boosting).
+So, in regression problem, I tried to use diffrent regression algorithims like # SVR,Random forest(Bagging), XGBOOST(Boosting).
 Also the given dataset was very much imbalanced, so while solving classification problems I used Imblearn library's SMOTE algorithim to reduce imblance.
