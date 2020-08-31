@@ -13,3 +13,6 @@ This repository includes my works during 1st June 2020 to 31st August 2020 in Ez
 
 Here I worked with some Bio medical signals.  I used some preprocessing stpes like abrupt Peak finding, removing noise by Gausiinan filtering (see notebook: name of the file)
 Then using histrogram plots try to create some class. At first I solved the given problem as a regression problem, later I solved the problem as a classification problem.
+
+So, in regression problem, I tried to use diffrent regression algorithims like SVR,Random forest(Bagging), XGBOOST(Boosting).
+Also the given dataset was very much imbalanced, so while solving classification problems I used Imblearn library's SMOTE algorithim to reduce imblance.
